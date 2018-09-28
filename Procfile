@@ -1,1 +1,1 @@
-web: with_ngrok -jar craftbukkit.jar
+web: with_ngrok Java -jar craftbukkit.jar
