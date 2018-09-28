@@ -1,1 +1,1 @@
-web: with_ngrok java $JAVA_OPTS craftbukkit.jar
+web: with_ngrok java $JAVA_OPTS -jar craftbukkit.jar
